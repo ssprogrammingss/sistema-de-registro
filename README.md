@@ -6,3 +6,4 @@ Para ejecutar el sistema debes poner:
 
 ```mpn install react```
 
+Sistema de Registro 2
